@@ -1,0 +1,2 @@
+Get-Alias
+Get-Process
